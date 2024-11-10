@@ -105,7 +105,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/yyuvraj54"><img alt="" src="https://avatars.githubusercontent.com/yyuvraj54" width="100px;"><br><sub><b>Yuvraj Singh </b></sub></a></a></td>
+   <! --  <td align="center"><a href="https://github.com/yyuvraj54"><img alt="" src="https://avatars.githubusercontent.com/yyuvraj54" width="100px;"><br><sub><b>Yuvraj Singh </b></sub></a></a></td> -->
     <td align="center"><a href="https://github.com/prem-mac"><img alt="" src="https://avatars.githubusercontent.com/AbhiSharma096" width="100px;"><br><sub><b>Prem Prakash</b></sub></a></td>
   </tr>
 </tbody></table>
